@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hey there! I'm Najiya
 
-<!--
-**Najiya-nasrin/Najiya-nasrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 I'm a passionate **Frontend Developer** who loves building (and breaking 😜) accessible and reusable UIs.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack I Work With
+- ⚡ **Frameworks & Libraries**: Angular | React  
+- 🔤 **Languages**: TypeScript | JavaScript  
+- 🎨 **Styling**: HTML | SCSS  
+- 🧪 **Testing**: Unit Testing | Jest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Highlight Project
+I'm super proud of my work on **[`joola.cms`](#)** – a content management system that's as dynamic and elegant as the code behind it 💻✨
+
+### ✈️ When I’m not coding...
+You’ll find me exploring new places and cultures 🌍 – I’m a passionate **traveller** with a camera in one hand and a chai in the other!
+
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/najiyanasrin/)
+
+---
+
+> “Building beautiful frontends one component at a time.” 🧩  
