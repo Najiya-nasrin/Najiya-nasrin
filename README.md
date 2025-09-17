@@ -1,6 +1,6 @@
 ## 👋 Hey there! I'm Najiya
 
-🌟 I'm a passionate **Frontend Developer** who loves building (and breaking 😜) accessible and reusable UIs.
+🌟 I'm a passionate **Frontend Developer** who loves building (and fixing) accessible and reusable UIs.
 
 ### 🛠️ Tech Stack I Work With
 - ⚡ **Frameworks & Libraries**: Angular | React  
